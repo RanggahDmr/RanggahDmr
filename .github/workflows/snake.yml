@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -13,6 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - uses: Platane/snk@v3
         id: snake
         with:
