@@ -4,8 +4,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" height="200" />
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmFweXltZHR0ZjNkOHFydDd5MDRnb3F0ZXY2NTcya2YxZDZhaXNmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcJ6n6VJNjRNS/giphy.gif"  />
 </div>
 
 ###
@@ -62,18 +62,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanggahDmr/RanggahDmr/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanggahDmr/RanggahDmr/main/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RanggahDmr/RanggahDmr/main/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RanggahDmr.RanggahDmr&"  />
-</div>
+<img src="https://raw.githubusercontent.com/RanggahDmr/RanggahDmr/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -89,8 +78,13 @@
 ###
 
 <div align="center">
- <img height="200" src="https://i.giphy.com/media/wr7oA0rSjnWuiLJOY5/giphy.gif" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RanggahDmr.RanggahDmr&"  />
+</div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNsZG8ybGdoM2ZiZXRoNGpsc3VmanBscmI1dTE2a2phdTlqbHNlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wr7oA0rSjnWuiLJOY5/giphy.gif"  />
 </div>
 
 ###
